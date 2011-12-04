@@ -6,7 +6,7 @@ IDE: CodeGear Delphi 2009 (or higher)
 
 To compile Nemp, you need to install the following components first:
 
-- VirtualTreeView by Mike Lischke (4.8.6)
+- VirtualTreeView by Mike Lischke (4.8.7)
   http://www.soft-gems.net/
 
 
